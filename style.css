@@ -5,7 +5,7 @@
 }
 
 canvas {
-  position: absolute;
+  position: relative;
   inset: 0;
   background-color: #333;
 }
